@@ -1,78 +1,80 @@
 # Pre Security Path — TryHackMe
 
-**Fecha completada:** Mayo 2026  
-**Dificultad:** Fácil  
-**Certificado:** ✅ Obtenido
+**Completed:** May 2026
+**Difficulty:** Easy
+**Certificate:** ✅ Obtained
+**Credential ID:** THM-8DFXCQWOBX
 
 ---
 
-## Rooms completados
+## Completed Rooms
 
 ### 🌐 Networking
-| Room | Descripción |
+| Room | Description |
 |------|-------------|
-| What is Networking? | Fundamentos de redes y cómo se comunican dispositivos |
-| Intro to LAN | Tecnologías y diseños de redes locales |
-| OSI Model | Las 7 capas del modelo OSI |
-| Packets & Frames | Cómo se divide y transmite la información en redes |
-| DNS in Detail | Cómo funciona DNS y resolución de dominios |
-| HTTP in Detail | Protocolo HTTP y cómo se solicita contenido web |
-| Extending Your Network | Tecnologías para extender redes hacia internet |
-| Putting it all together | Integración de todos los componentes de red |
+| What is Networking? | Fundamentals of networking and how devices communicate |
+| Intro to LAN | Technologies and designs behind local area networks |
+| OSI Model | The 7 layers of the OSI model and their functions |
+| Packets & Frames | How data is divided and transmitted across networks |
+| DNS in Detail | How DNS works and resolves domain names to IP addresses |
+| HTTP in Detail | HTTP protocol and how web content is requested |
+| Extending Your Network | Technologies used to extend networks to the internet |
+| Putting it all together | Integration of all networking components |
 
-### 🖥️ Sistemas Operativos
-| Room | Descripción |
+### 🖥️ Operating Systems
+| Room | Description |
 |------|-------------|
-| Linux Fundamentals Part 1 | Comandos esenciales en terminal Linux |
-| Linux Fundamentals Part 2 | SSH, comandos avanzados y navegación |
-| Linux Fundamentals Part 3 | Utilidades comunes del día a día en Linux |
-| Linux CLI Basics | Navegación práctica por terminal Linux |
-| Windows Fundamentals 1 | Desktop de Windows, NTFS, UAC, Panel de Control |
+| Linux Fundamentals Part 1 | Essential Linux terminal commands |
+| Linux Fundamentals Part 2 | SSH, advanced commands and navigation |
+| Linux Fundamentals Part 3 | Common day-to-day Linux utilities |
+| Linux CLI Basics | Practical Linux terminal navigation |
+| Windows Fundamentals 1 | Windows desktop, NTFS, UAC, Control Panel |
 | Windows Fundamentals 2 | System Configuration, UAC, Windows Registry |
-| Windows Fundamentals 3 | Windows Updates, herramientas de seguridad integradas |
-| Windows Basics | Navegación, archivos y herramientas esenciales |
-| Windows CLI Basics | Interacción con Windows desde línea de comandos |
-| Operating System Security | Seguridad de SO y autenticación SSH |
-| Operating Systems: Introduction | Componentes core de los sistemas operativos |
-| Inside a Computer System | Componentes físicos de un sistema informático |
-| Computer Types | Tipos de computadoras y sus usos |
-| Virtualisation Basics | Fundamentos de virtualización en entornos IT |
+| Windows Fundamentals 3 | Windows Updates and built-in security tools |
+| Windows Basics | Navigation, files and essential tools |
+| Windows CLI Basics | Interacting with Windows via command line |
+| Operating System Security | OS security concepts and SSH authentication |
+| Operating Systems: Introduction | Core components of operating systems |
+| Inside a Computer System | Physical components of a computer system |
+| Computer Types | Types of computers and their uses |
+| Virtualisation Basics | Fundamentals of virtualization in IT environments |
 
-### 🌍 Cómo funciona la Web
-| Room | Descripción |
+### 🌍 How the Web Works
+| Room | Description |
 |------|-------------|
-| How Websites Work | Cómo se crean y funcionan los sitios web |
+| How Websites Work | How websites are created and how they function |
 
-### ☁️ Cloud & Otros
-| Room | Descripción |
+### ☁️ Cloud & Others
+| Room | Description |
 |------|-------------|
-| Cloud Computing Fundamentals | Cómo el cloud computing ayuda a los negocios |
-| Client-Server Basics | Modelo cliente-servidor |
-| Search Skills | Búsqueda eficiente en internet y documentación técnica |
+| Cloud Computing Fundamentals | How cloud computing helps businesses scale |
+| Client-Server Basics | The client-server model explained |
+| Search Skills | Efficient searching across the internet and technical docs |
 
-### 🔐 Introducción a Seguridad
-| Room | Descripción |
+### 🔐 Introduction to Security
+| Room | Description |
 |------|-------------|
-| Offensive Security Intro | Primera experiencia hackeando un sitio web en ambiente seguro |
+| Offensive Security Intro | First hands-on experience hacking a website in a safe environment |
 | Defensive Security Intro | Threat Intelligence, SOC, DFIR, Malware Analysis, SIEM |
-| Careers in Cyber | Diferentes carreras dentro de la ciberseguridad |
+| Careers in Cyber | Different career paths within cybersecurity |
 
 ---
 
-## Conceptos clave aprendidos
-- Las 7 capas del modelo OSI y su función en redes
-- Diferencia entre TCP (confiable) y UDP (rápido)
-- Cómo una petición DNS resuelve un dominio a una IP
-- Comandos básicos Linux: `ls`, `cd`, `cat`, `pwd`, `grep`, `ssh`
-- Estructura del sistema de archivos en Windows y Linux
-- Qué es virtualización y por qué se usa en IT
-- Diferencia entre seguridad ofensiva y defensiva
-- Qué hace un analista SOC y qué es un SIEM
+## Key Concepts Learned
+- The 7 layers of the OSI model and their functions
+- Difference between TCP (reliable) and UDP (fast)
+- How a DNS request resolves a domain name to an IP address
+- Basic Linux commands: `ls`, `cd`, `cat`, `pwd`, `grep`, `ssh`
+- File system structure in both Windows and Linux
+- What virtualization is and why it is used in IT
+- Difference between offensive and defensive security
+- What a SOC analyst does and what a SIEM is
 
 ---
 
-## ¿Qué me llevé de esta ruta?
-Base técnica sólida en redes, sistemas operativos y fundamentos
-de ciberseguridad. Entendí cómo se comunican los dispositivos,
-cómo funcionan Windows y Linux a nivel básico, y tuve mi primera
-experiencia práctica tanto en seguridad ofensiva como defensiva.
+## Key Takeaway
+Built a solid technical foundation in networking, operating systems,
+and cybersecurity fundamentals. Gained an understanding of how
+devices communicate across networks, how Windows and Linux work
+at a basic level, and had first hands-on experience in both
+offensive and defensive security.
