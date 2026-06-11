@@ -104,6 +104,21 @@ Certificate on Coursera.
 - Port lights on switches provide instant troubleshooting data
 - Physical layer abstracts hardware details from all other layers
 
+**Data Link Layer**
+- Ethernet - protocol that allows devices to communicate within a local area network
+- MAC Address, is a globally unique identifier assigned to a network interface
+- Octet, is any value that can be represented using 8 bits.
+- CSMA/CD (Carrier Sense Multiple Access with Collision Detection), If two devices transmit data at the same time and a collision occurs,
+each device waits for a random amount of time before attempting to retransmit.
+
+**Types of Ethernet transmission**
+- unicast - Data is transmitted to a single device
+- multicast - data is transmitted to a different devices, but only devices that have agreed to receive the data will process it.
+- Broadcast - the message is sent to all devices connecteted to the network, every devices receives it.
+
+
+
+
 *(keep adding concepts as you progress through each module)*
 
 ---
